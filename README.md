@@ -1,0 +1,3 @@
+# apousies.gr 
+~ apousies.gr is a project created (with the kind support and guidance from Dimitra Chatzopoulou – one of the teachers of the IT sector from the 1st EPAL of Neapoli, Thessaloniki) with a view to revolutionize the way students in Greece keep up with various aspects of their school life – ranging from their school timetable, all the way to managing their absences and grades – by making it easier, and more accessible. The project is currently operational as a open beta release for only one school (1st EPAL of Neapoli, Thessaloniki) but multi-school/educational unit support is planned and shortly coming. 
+This project also participated and was awarded in the 15th Greek Student IT Conference.
